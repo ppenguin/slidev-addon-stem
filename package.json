@@ -1,6 +1,8 @@
 {
+  "main": "index.ts",
+  "type": "module",
   "name": "slidev-addon-stem",
-  "version": "0.1.0",
+  "version": "0.1.0-pp",
   "description": "Slidev addon for plotly figure rendering and etc.",
   "license": "MIT",
   "type": "module",
